@@ -2,7 +2,8 @@ package my_first_project;
 
 interface A1{
 	int i=10;//variables need to be initialised
-	 public abstract void display();
+//void print();
+	public abstract void display();
 }
 
 interface B1{
