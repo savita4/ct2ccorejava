@@ -10,11 +10,19 @@ public static void main(String args[])
 	//Integer job=Integer(i);
 	
  Integer job=i;//autoboxing:-converting primitive type to object class
- System.out.println("This is autoboxing"+job);
+ System.out.println("This is autoboxing  "+job);
  //unboxing:-converting object type to primtive type
  //int j=job.intValue();
  int j=job;
- System.out.println("this is unboxing"+j);
+ System.out.println("this is unboxing  "+j);
+//ArrayList <Integer> a1=new ArrayList();
+ //a1.add(10);
+ //a1.add(20);
+ //a1.add(30);
+ 
+ 
+ 
+
  
  
  
