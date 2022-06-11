@@ -35,7 +35,7 @@ public class DemoVector {
 		
 		
 			System.out.println(vec);
-		System.out.println("Size of vector"+vec.capacity());
+		System.out.println("Size of vector  "+vec.capacity());
 		
 		
 	}
